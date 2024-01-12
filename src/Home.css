@@ -1,0 +1,19 @@
+.home-container {
+  text-align: center;
+  padding: 20px;
+}
+
+header {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  color: #333;
+}
+
+header p {
+  color: #555;
+}

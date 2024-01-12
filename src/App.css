@@ -1,0 +1,22 @@
+.list .action {
+  cursor: pointer;
+}
+
+.submit-form {
+  max-width: 4ex;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 400px;
+  margin: auto;
+}
+
+.margin-header {
+  margin-bottom: 5px;
+}
+
+.btn-novo {
+  padding-left: 30px;
+  padding-right: 30px;
+}

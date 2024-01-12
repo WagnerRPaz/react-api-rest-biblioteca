@@ -1,6 +1,6 @@
 # *Gerência de livros e bibliotecas*
 
-![Gerência de livros e bibliotecas](https://github.com/WagnerRPaz/react-api-rest-biblioteca/assets/113643420/554ab0b4-b638-4660-adcc-47543fd9a084)
+![Gerência de livros e bibliotecas](https://github.com/WagnerRPaz/react-api-rest-biblioteca/assets/113643420/2d78ec4f-4d1a-4a75-a87b-67bff46fbbc4)
 
 
 ### FE do projeto desenvolvido, utilizando o framework REACT e se conectando com o BE desenvolvido anteriormente. Simples, porém que cumpre muito bem com seu objetivo.
